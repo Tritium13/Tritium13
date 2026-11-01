@@ -1,6 +1,6 @@
 ## Hi, I'm Björn 👋
 
-Plant cell biologist (MSc, University of Potsdam) working where biology meets image analysis.
+Biochemist and molecular biologist (MSc, University of Potsdam) working where biology meets image analysis.
 I like turning images into numbers – and building pipelines that anyone can rerun.
 
 🔎 Currently looking for a PhD position in bioimage analysis / cell biology.
