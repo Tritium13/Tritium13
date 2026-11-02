@@ -16,11 +16,24 @@ I like turning images into numbers – and building pipelines that anyone can re
 JWST data from the MAST archive into colour images. Every step and every decision is documented,
 scientific and aesthetic choices are labelled as such.
 
-<p>
-  <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/runs/explore_jw12591_o003_t001_star_forming_pillar_A_chromatic_web.jpg" height="300" alt="Star-forming pillar in the Carina Nebula"></a>
-  <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/uranus_D_silver_rings_web.jpg" height="300" alt="Uranus with its rings"></a>
-  <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/jupiter_B_warm_bands_web.jpg" height="300" alt="Jupiter"></a>
-</p>
+<table>
+  <tr>
+    <td rowspan="2" align="center">
+      <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/runs/explore_jw12591_o003_t001_star_forming_pillar_A_chromatic_web.jpg" height="700" alt="Star-forming pillar in the Carina Nebula"></a><br>
+      <sub><b>Star-forming pillar</b> – South Pillars region of the Carina Nebula, ~7,500 light-years away<br>NIRCam, 6 filters · data released Oct 2026</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/uranus_D_silver_rings_web.jpg" height="320" alt="Uranus with its rings"></a><br>
+      <sub><b>Uranus</b> with its rings · NIRCam, 5 filters</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/jupiter_B_warm_bands_web.jpg" height="320" alt="Jupiter with the Great Red Spot"></a><br>
+      <sub><b>Jupiter</b> with the Great Red Spot · NIRCam, 2 filters</sub>
+    </td>
+  </tr>
+</table>
 
 <sub>Images: my processing of public JWST data (NASA, ESA, CSA, STScI, retrieved via MAST).</sub>
 
