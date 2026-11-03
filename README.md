@@ -35,6 +35,10 @@ scientific and aesthetic choices are labelled as such.
   </tr>
 </table>
 
+<p>
+  <a href="https://github.com/Tritium13/astro-pipeline"><img src="https://raw.githubusercontent.com/Tritium13/astro-pipeline/main/output/runs/explore_jw07934_o001_t001_cas_a_A_chromatic_web.jpg" width="100%" alt="Cassiopeia A supernova remnant"></a><br>
+  <sub><b>Cassiopeia A</b> – supernova remnant in our Milky Way, ~11,000 light-years away · NIRCam, 4 filters · data released Oct 2026</sub>
+</p>
 <sub>Images: my processing of public JWST data (NASA, ESA, CSA, STScI, retrieved via MAST).</sub>
 
 **Tools:** Python (NumPy, SciPy, Astropy) · Fiji/ImageJ macro language · R · Git
